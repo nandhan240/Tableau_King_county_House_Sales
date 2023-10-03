@@ -1,4 +1,4 @@
-# Tableau_Washington_House_Sales
+# Tableau_King_county_House_Sales
 
 In this Tableau Project, I build an interactive dashboard with a calendar widget as the main filter and multiple visuals including a line chart, histograms, a map, and a heatmap.
 
